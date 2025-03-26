@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+tensorflow
+pmdarima
+prophet
+cmdstanpy
